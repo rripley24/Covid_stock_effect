@@ -6,7 +6,7 @@
  * Richard Ripley
  ---
 
-![Covid rise over stock market daily returns](bokeh_plot__3_.pdf)
+![Covid rise over stock market daily returns](https://files.slack.com/files-pri/T014KT2BKSA-F01A732LPAL/bokeh_plot__3_.png)
 
 **Hypothesis**: Measuring COVID's effect on the stock market this year. Specifically, as it pertains to certain sectors leading up to, and during, the lockdown here in the US. We feel that the COVID lockdown would decimate certain sectors, such as Transportation and Entertainment; while others, like Tech, would benefit greatly. Once the Stimulus Package was sent out, investors would ride the wave of the hot sectors while leaving the forgotten ones behind. We expect the trend to continue forward, so long as COVID supresses our usual economy. 
  
