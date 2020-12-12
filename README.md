@@ -1,12 +1,12 @@
-# Fintech Group Project 1
-## ASU Fintech Fall 2020 Course
-### Group 1:
+# Covid Effect on the Stock Market
+## ASU Fintech 2020
+### Group:
  * Sheldon Harracksingh
  * Xavier Spurlock
  * Richard Ripley
  ---
 
-![Covid rise over stock market daily returns](Downloads/bokeh_plot__3_.jpg)
+![Covid rise over stock market daily returns](https://user-images.githubusercontent.com/65874272/101996442-999b1700-3c8f-11eb-93c0-d8def04f3354.png)
 
 **Hypothesis**: Measuring COVID's effect on the stock market this year. Specifically, as it pertains to certain sectors leading up to, and during, the lockdown here in the US. We feel that the COVID lockdown would decimate certain sectors, such as Transportation and Entertainment; while others, like Tech, would benefit greatly. Once the Stimulus Package was sent out, investors would ride the wave of the hot sectors while leaving the forgotten ones behind. We expect the trend to continue forward, so long as COVID supresses our usual economy. 
  
